@@ -1,7 +1,6 @@
-# Generator
+# Generator written on Python
+This is just fork by cackemc 
 
-Forked by cackemc
-
-This is a simple number generator using Tkinter GUI framework. 
+used library:Tkinter GUI framework
 
 Thanks to NobootRecord user for help with the program!
