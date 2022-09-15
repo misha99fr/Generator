@@ -1,8 +1,9 @@
-# Generator written on Python
+# Generator
 This is just fork by cackemc 
 
-used library:Tkinter GUI framework
+used library:Tkinter GUI
 
-Thanks to NobootRecord user for help with the program!
+Thanks to all guys who help with the program!
 
 ![Program screenshot](Screenshot.png)
+Original made by Ertor
