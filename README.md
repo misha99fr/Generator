@@ -1,4 +1,4 @@
-# Generatorв
+# Generator
 This is just fork by cackemc 
 
 used library:Tkinter GUI
