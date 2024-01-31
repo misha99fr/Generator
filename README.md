@@ -7,3 +7,4 @@ Thanks to all guys who help with the program!
 
 ![Program screenshot](Screenshot.png)
 Original made by Ertor
+.
